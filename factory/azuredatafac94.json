@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafac94",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f3b32a4-24f3-466a-af4f-e14ea82d2e4e",
+		"tenantId": "72c608e8-ddbf-4d4d-9efc-1d9a8021ec61"
+	}
+}
